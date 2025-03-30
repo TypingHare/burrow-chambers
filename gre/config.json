@@ -1,0 +1,1 @@
+{"description":"Learn GRE words and phrases.","hoard.pair.key_name":"word","hoard.pair.value_name":"translation","hoard.pair.allows_duplicate_keys":"true","time.created_at.enabled":"true","time.updated_at.enabled":"true","time.created_at.format":"MMM dd, yyyy","time.updated_at.format":"MMM dd, yyyy","wordy.next_length":"5","shell.interpreter":"/bin/zsh","shell.name":"gre"}

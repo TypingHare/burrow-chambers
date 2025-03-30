@@ -1,0 +1,1 @@
+{"description":"\u003cNo description\u003e","shell.interpreter":"/bin/zsh","shell.name":"memo","hoard.pair.key_name":"key","hoard.pair.value_name":"value","hoard.pair.allows_duplicate_keys":"true", "cradle.shell_path":"/bin/bash","hoard.encrypt_storage":"true","hoard.secret":"123456"}
